@@ -2,7 +2,7 @@
 
 > *"Humanity created the raw material of AI. What rights should humanity have in return?"*
 
-This repository is the **single source of truth** for the Human Data Rights (HDR) media strategy. It distills a long founder ideation session into a clear summary, the decision-making **thinking pathways** behind every strategic choice, and an execution-ready editorial system.
+This repository is the **single source of truth** for the Human Data Rights (HDR) media strategy. It distills a long ideation session into a clear summary, the decision-making **thinking pathways** behind every strategic choice, and an execution-ready editorial system.
 
 HDR is a non-profit working at the intersection of **AI, digital rights, and the economics of data ownership**. Lead coalition partner: **IPTO**. We are *not* anti-AI — we exist to put humanity at the center of the AI conversation, helping people understand their **rights, role, contribution, and agency**.
 
@@ -26,7 +26,7 @@ Start at the top and go down — each doc builds on the last.
 | 09 | [Editorial Principles](docs/09-editorial-principles.md) | Do / don't — the tone guardrails |
 | 10 | [Roadmap](docs/10-roadmap.md) | Phase 1 → 2 → 3 |
 
-> This strategy was distilled from a founder ideation session. The raw transcript is kept private and is not part of this public repo.
+> This strategy was distilled from an ideation session. The raw transcript is kept private and is not part of this public repo.
 
 ---
 

@@ -44,7 +44,7 @@ Decision: Neutral, research-backed, solution-oriented. Fear is the setup;
 ## Pathway 3 — The synthetic vs. consciousness tension → two lanes
 
 ```
-Founder idea:   "Human data = collective consciousness; rights = agency."
+Initial idea:   "Human data = collective consciousness; rights = agency."
 Friend's check: "HDR is synthetic — nothing to do with consciousness."
    │
    ▼
@@ -84,7 +84,7 @@ Decision: Treat these as serious, citable inputs to the editorial — framed
 ## Pathway 5 — Architecture: from "platforms" to a "Media OS"
 
 ```
-v0 (founder):  Newsletter + Video Essay → Instagram / X+Reddit / LinkedIn
+v0 (initial):   Newsletter + Video Essay → Instagram / X+Reddit / LinkedIn
    ▼  problem: starts too late (newsletters don't appear from nowhere)
 v1 (add front-end):  Editorial Inputs → Weekly Meeting → Newsletter → Essay
    ▼  problem: "platform" thinking fragments the message

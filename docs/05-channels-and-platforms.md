@@ -49,7 +49,7 @@ Alongside HDR there are **separately branded** sister channels for the more spec
 **How they fit the ecosystem:**
 - **HDR (main)** = neutral, research-backed, policy + agency. This is where the team's focus sits.
 - **Sister channels (CCA + IAG)** = speculative and philosophical, framed as a *point of view*, not as legal or technical fact.
-- **Run as a separate workstream by the founder.** They're part of the bigger picture, but operated independently — **Abhishek and Sristi stay focused on HDR for now.**
+- **Run as a separate workstream by Maria (Campaign Head).** They're part of the bigger picture, but operated independently — **Abhishek (HDR Founder) and Sristi stay focused on HDR for now.**
 - **Cross-link, don't blend.** The voices stay separate so neither affects the other's credibility.
 
 > Detail intentionally light for now. See [01 — Pathway 3](01-thinking-pathways.md) for why the split exists.

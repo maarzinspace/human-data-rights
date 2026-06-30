@@ -32,8 +32,10 @@ The rights we organize around: **ownership · compensation · transparency · op
 
 ## Coalition & people
 - **Lead coalition partner:** IPTO
+- **HDR Founder:** Abhishek
+- **Campaign Head:** Maria (also runs the CCA + IAG sister channels as a separate workstream)
+- **Audience & Distribution Lead:** Sristi
 - **Coalition / leadership named in source:** Abhishek Krishna, Philip, Dipankar
-- **Operating team (from the deck):** Maria (Editorial Lead), Abhishek (Creative Lead), Sristi (Audience & Distribution Lead)
 - Articles: **humandatarights.org**
 
 > Note: keep public-facing claims about people, partners, and affiliations verified before publishing.

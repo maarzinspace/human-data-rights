@@ -1,6 +1,6 @@
 # 00 — Conversation Summary
 
-A single-read summary of the founder ideation session that produced this strategy. For the *why* behind each call, see [01 — Thinking Pathways](01-thinking-pathways.md).
+A single-read summary of the ideation session that produced this strategy. For the *why* behind each call, see [01 — Thinking Pathways](01-thinking-pathways.md).
 
 ## What HDR is
 A non-profit at the intersection of **AI, digital rights, and the economics of data ownership**, with lead coalition partner **IPTO**. Core belief: people should have rights — ownership, compensation, transparency, opt-out — over the human data that powers AI. A podcast and a full content system are launching.

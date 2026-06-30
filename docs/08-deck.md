@@ -121,8 +121,8 @@ Newsroom · AI Explained · Essay clips · X thread · daily X
 ---
 
 ### Slide 10 — Team Responsibilities
-- **Maria — Editorial Lead:** newsletter · editorial direction · video essays · podcast host · Reddit moderation · strategy.
-- **Abhishek — Creative Lead:** video production · editing · motion graphics · music · podcast production.
+- **Maria — Campaign Head:** campaign strategy · editorial direction · newsletter · video essays · podcast host · Reddit moderation.
+- **Abhishek — HDR Founder:** video production · editing · motion graphics · music · podcast production.
 - **Sristi — Audience & Distribution Lead:** X · Reddit · LinkedIn · news monitoring · scheduling · community management · partnership outreach.
 
 ---
