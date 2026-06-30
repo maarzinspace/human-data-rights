@@ -73,7 +73,7 @@ Start at the top and go down — each doc builds on the last.
 ## Status & verification notes
 
 - ⚠️ A claim in the source about a "Claude/Fable" ban in India is **unverified** — see [docs/09-editorial-principles.md](docs/09-editorial-principles.md#sourcing). Do not publish without primary sourcing.
-- The "collective consciousness / AI-as-God" material is reserved for a **separately branded sister channel**, not the neutral HDR voice. See [docs/05](docs/05-channels-and-platforms.md#sister-channels).
+- The speculative/philosophical material is reserved for **separately branded sister channels** — CCA (Collective Conscious Agency) and IAG (Is AI God) — kept distinct from the neutral HDR voice. See [docs/05](docs/05-channels-and-platforms.md#sister-channels).
 
 ## Repo layout
 

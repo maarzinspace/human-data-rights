@@ -41,13 +41,15 @@ The Newsroom (events) and Essay Clips (ideas) don't compete — they're tied to 
 
 ## Sister channels
 
-A **separately branded** channel for the speculative / spiritual / existential angle — deliberately *not* neutral. This is where the "collective conscious agency," AI-as-mythology, and the *"his AI God"* threads live.
+Alongside HDR there are **separately branded** sister channels for the more speculative, philosophical side of the AI conversation — kept distinct from the neutral HDR voice. Two are planned:
 
-**Hard rules:**
-- **Boundary is absolute.** Main HDR = neutral, journalistic, policy + agency. Sister channel = speculative, philosophical, slanted-by-design.
-- **Cross-link, never blend.** The two voices stay distinct so neither contaminates the other's credibility.
-- Spiritual/esoteric content is framed as a **poetic/philosophical lens**, explicitly *not* a legal or technical claim.
+- **CCA — Collective Conscious Agency:** explores AI through the lens of collective consciousness and human agency.
+- **IAG — Is AI God:** explores the big existential and philosophical questions around AI.
 
-**Archetypes to structure speculative episodes:** AI as **mirror** (reflects our ambitions/fears), **trickster** (liberator or enslaver), **cosmic evolution** (catalyst for consciousness if directed with intention) — plus extinction / conquest / protection / evolution. Always grounded with real voices from both sides.
+**How they fit the ecosystem:**
+- **HDR (main)** = neutral, research-backed, policy + agency. This is where the team's focus sits.
+- **Sister channels (CCA + IAG)** = speculative and philosophical, framed as a *point of view*, not as legal or technical fact.
+- **Run as a separate workstream by the founder.** They're part of the bigger picture, but operated independently — **Abhishek and Sristi stay focused on HDR for now.**
+- **Cross-link, don't blend.** The voices stay separate so neither affects the other's credibility.
 
-> See [01 — Pathway 3](01-thinking-pathways.md) for why the split exists.
+> Detail intentionally light for now. See [01 — Pathway 3](01-thinking-pathways.md) for why the split exists.

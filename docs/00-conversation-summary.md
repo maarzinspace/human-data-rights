@@ -11,7 +11,7 @@ A non-profit at the intersection of **AI, digital rights, and the economics of d
 
 2. **Tone: neutral, journalistic, solution-oriented — no fearmongering.** Engage the real bleak-future arguments (Musk, Hinton, MIRI, Harari on surveillance) but always pivot to **human agency** and what we can do.
 
-3. **Split the brand into two lanes.** The main HDR channel stays neutral and policy-grounded. A **separately branded sister channel** explores the speculative/spiritual/existential angle (AI as mirror/trickster/cosmic evolution; the "his AI God" thread). Hard boundary between them; cross-link, don't blend.
+3. **Split the brand into two lanes.** The main HDR channel stays neutral and policy-grounded. **Separately branded sister channels** — **CCA** (Collective Conscious Agency) and **IAG** (Is AI God) — explore the speculative/philosophical angle. Hard boundary between them; cross-link, don't blend.
 
 4. **The newsletter is the source of truth.** Everything starts from one weekly editorial answering *"What is this week's Human Question?"* It becomes a YouTube video essay, then fans out everywhere.
 

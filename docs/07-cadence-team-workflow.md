@@ -47,3 +47,5 @@
 | **Sristi** | Audience & Distribution Lead | X · Reddit · LinkedIn · news monitoring · scheduling · community management · partnership outreach |
 
 > Roles reflect the source deck. Adjust as the team grows; keep one clear owner per function.
+
+**Scope note:** **Abhishek and Sristi focus exclusively on HDR for now.** The sister channels (CCA — Collective Conscious Agency, and IAG — Is AI God) are a separate workstream run by the founder; they're part of the bigger picture but operated independently. See [05 — Sister channels](05-channels-and-platforms.md#sister-channels).

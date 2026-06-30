@@ -11,7 +11,7 @@
 - Launch the **HDR Podcast** ("Who Owns the Future?") — one provocative question per episode.
 - Guest conversations and roundtables across creators, technologists, policy voices, and contrarians.
 - Expand video-essay output; turn each recording into 20+ pieces via the content engine.
-- Spin up the **sister channel** for the speculative/philosophical lane (separately branded).
+- Spin up the **sister channels** — CCA (Collective Conscious Agency) and IAG (Is AI God) — for the speculative/philosophical lane (separately branded).
 
 ## Phase 3 — Movement
 - Formalize **coalitions** (with IPTO and beyond).
