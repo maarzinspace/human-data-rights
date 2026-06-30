@@ -27,6 +27,7 @@ Otherwise, start at the top and go down — each doc builds on the last.
 | 08 | [The Deck (Phase 1)](docs/08-deck.md) | The 12-slide strategy deck, ready to present |
 | 09 | [Editorial Principles](docs/09-editorial-principles.md) | Do / don't — the tone guardrails |
 | 10 | [Roadmap](docs/10-roadmap.md) | Phase 1 → 2 → 3 |
+| 11 | [Risks, Bottlenecks & Open Questions](docs/11-risks-and-open-questions.md) | What could break — for the team to work through |
 
 > This strategy was distilled from an ideation session. The raw transcript is kept private and is not part of this public repo.
 
