@@ -10,7 +10,9 @@ HDR is a non-profit working at the intersection of **AI, digital rights, and the
 
 ## How to read this repo
 
-Start at the top and go down — each doc builds on the last.
+📄 **Want the whole strategy as one document?** → [`STRATEGY.md`](STRATEGY.md)
+
+Otherwise, start at the top and go down — each doc builds on the last.
 
 | # | Doc | What it answers |
 |---|-----|-----------------|
